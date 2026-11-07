@@ -69,7 +69,5 @@ This project is a console-based application designed to simulate a metro distanc
 - Thanks to the creators of Dijkstra's algorithm for the foundational work.
 - Special thanks to the contributors and open-source community for their support.
 
-## Contact
 
-For any questions or feedback, please contact **Aman Chahar**.
 
